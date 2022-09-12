@@ -1,0 +1,69 @@
+body {
+    background-image: url(images/12.jpg);
+    background-size: 120rem;
+}
+
+#bt1, #bt2 {
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.781);
+    width: 50rem;
+    height: 12rem;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    margin-bottom: 10rem;
+    margin-top: 10rem;
+    transition: all 300ms ease-in;
+    border: none;
+
+}
+
+#bt2:hover {
+    background-color: rgb(158, 86, 86);
+}
+
+#bt1:hover {
+    background-color: rgb(158, 86, 86);
+}
+
+.imgal {
+    width: 160px;
+    height: 160px;
+    border-radius: 10px;
+}
+
+.txtal {
+    color: #fff;
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    margin-left: 5rem;
+    margin-top: 3.5rem;
+}
+
+/*start Panda-Hund page*/
+
+#imgph {
+    width: 15rem;
+    border-radius: 20px;
+    height: 15rem;
+}
+
+#divph {
+    display: flex;
+    width: 70rem;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(0, 0, 0, 0.726);
+    padding: 5rem;
+    border-radius: 40px;
+    margin-top: 10rem;
+}
+
+.psb {
+    color: #fff;
+    margin-left: 5rem;
+    font-size: 30px;
+}
+
